@@ -100,9 +100,6 @@ Country,City,Tour Category,Link
 아일랜드,골웨이,체험·클래스,https://www.myrealtrip.com/offers?t=llp&qct=galway&qcr=Ireland&ext_categories=activity_class
 아일랜드,아일랜드 기타 도시,체험·클래스,https://www.myrealtrip.com/offers?t=llp&qct=Ireland%20Others&qcr=Ireland&ext_categories=activity_class
 아일랜드,아일랜드 기타 도시,근교투어,https://www.myrealtrip.com/offers?t=llp&qct=Ireland%20Others&qcr=Ireland&ext_categories=suburb_tour
-영국,런던,시내투어,https://www.myrealtrip.com/offers?t=llp&qct=London&qcr=United%20Kingdom&ext_categories=sinae_tour
-영국,런던,근교투어,https://www.myrealtrip.com/offers?t=llp&qct=London&qcr=United%20Kingdom&ext_categories=suburb_tour
-영국,런던,투어,https://www.myrealtrip.com/offers?t=llp&qct=London&qcr=United%20Kingdom&ext_categories=tour
 영국,에딘버러,근교투어,https://www.myrealtrip.com/offers?t=llp&qct=Edinburgh&qcr=United%20Kingdom&ext_categories=suburb_tour
 영국,에딘버러,시내투어,https://www.myrealtrip.com/offers?t=llp&qct=Edinburgh&qcr=United%20Kingdom&ext_categories=sinae_tour
 영국,윈저,근교투어,https://www.myrealtrip.com/offers?t=llp&qct=Windsor&qcr=United%20Kingdom&ext_categories=suburb_tour
@@ -453,8 +450,6 @@ Country,City,Tour Category,Link
 터키,앙카라,투어,https://www.myrealtrip.com/offers?t=llp&qct=Ankara&qcr=Turkey&ext_categories=tour
 터키,카이세리,근교투어,https://www.myrealtrip.com/offers?t=llp&qct=Kayseri&qcr=Turkey&ext_categories=suburb_tour
 터키,보드룸,투어,https://www.myrealtrip.com/offers?t=llp&qct=Bodrum&qcr=Turkey&ext_categories=tour
-포르투갈,리스본,근교투어,https://www.myrealtrip.com/offers?t=llp&qct=lisbon&qcr=Portugal&ext_categories=suburb_tour
-포르투갈,리스본,시내투어,https://www.myrealtrip.com/offers?t=llp&qct=lisbon&qcr=Portugal&ext_categories=sinae_tour
 포르투갈,포르투,근교투어,https://www.myrealtrip.com/offers?t=llp&qct=Porto&qcr=Portugal&ext_categories=suburb_tour
 포르투갈,포르투,시내투어,https://www.myrealtrip.com/offers?t=llp&qct=Porto&qcr=Portugal&ext_categories=sinae_tour
 포르투갈,포르투,체험·클래스,https://www.myrealtrip.com/offers?t=llp&qct=Porto&qcr=Portugal&ext_categories=activity_class
@@ -601,7 +596,6 @@ Country,City,Tour Category,Link
 말레이시아,쿠칭,투어,https://www.myrealtrip.com/offers?t=llp&qct=Kuching&qcr=Malaysia&ext_categories=tour
 말레이시아,조호바루,투어,https://www.myrealtrip.com/offers?t=llp&qct=Johor%20Bahru&qcr=Malaysia&ext_categories=tour
 미얀마,양곤,투어,https://www.myrealtrip.com/offers?t=llp&qct=Yangon&qcr=Myanmar&ext_categories=tour
-베트남,다낭,투어,https://www.myrealtrip.com/offers?t=llp&qct=Da%20Nang&qcr=Viet%20Nam&ext_categories=tour
 베트남,나트랑,투어,https://www.myrealtrip.com/offers?t=llp&qct=Nha%20trang&qcr=Viet%20Nam&ext_categories=tour
 베트남,나트랑,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Nha%20trang&qcr=Viet%20Nam&ext_categories=activity
 베트남,나트랑,근교투어,https://www.myrealtrip.com/offers?t=llp&qct=Nha%20trang&qcr=Viet%20Nam&ext_categories=suburb_tour
@@ -643,7 +637,6 @@ Country,City,Tour Category,Link
 베트남,캄란,근교투어,https://www.myrealtrip.com/offers?t=llp&qct=CamRanh&qcr=Viet%20Nam&ext_categories=suburb_tour
 베트남,캄란,클래스,https://www.myrealtrip.com/offers?t=llp&qct=CamRanh&qcr=Viet%20Nam&ext_categories=class
 브루나이,세리아,투어,https://www.myrealtrip.com/offers?t=llp&qct=Seria&qcr=Brunei&ext_categories=tour
-인도네시아,발리,투어,https://www.myrealtrip.com/offers?t=llp&qct=Bali&qcr=Indonesia&ext_categories=tour
 인도네시아,우붓,투어,https://www.myrealtrip.com/offers?t=llp&qct=Ubud&qcr=Indonesia&ext_categories=tour
 인도네시아,우붓,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Ubud&qcr=Indonesia&ext_categories=activity
 인도네시아,우붓,클래스,https://www.myrealtrip.com/offers?t=llp&qct=Ubud&qcr=Indonesia&ext_categories=class
@@ -667,16 +660,10 @@ Country,City,Tour Category,Link
 캄보디아,씨엠립,클래스,https://www.myrealtrip.com/offers?t=llp&qct=Siem%20Reap&qcr=Cambodia&ext_categories=class
 캄보디아,씨엠립,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Siem%20Reap&qcr=Cambodia&ext_categories=activity
 캄보디아,프놈펜,투어,https://www.myrealtrip.com/offers?t=llp&qct=Phnom%20Penh&qcr=Cambodia&ext_categories=tour
-태국,방콕,시내투어,https://www.myrealtrip.com/offers?t=llp&qct=Bangkok&qcr=Thailand&ext_categories=sinae_tour
-태국,방콕,근교투어,https://www.myrealtrip.com/offers?t=llp&qct=Bangkok&qcr=Thailand&ext_categories=suburb_tour
-태국,방콕,클래스,https://www.myrealtrip.com/offers?t=llp&qct=Bangkok&qcr=Thailand&ext_categories=class
-태국,푸켓,투어,https://www.myrealtrip.com/offers?t=llp&qct=Phuket&qcr=Thailand&ext_categories=tour
-태국,푸켓,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Phuket&qcr=Thailand&ext_categories=activity
 태국,파타야,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Pattaya&qcr=Thailand&ext_categories=activity
 태국,파타야,투어,https://www.myrealtrip.com/offers?t=llp&qct=Pattaya&qcr=Thailand&ext_categories=tour
 태국,파타야,근교투어,https://www.myrealtrip.com/offers?t=llp&qct=Pattaya&qcr=Thailand&ext_categories=suburb_tour
 태국,파타야,클래스,https://www.myrealtrip.com/offers?t=llp&qct=Pattaya&qcr=Thailand&ext_categories=class
-태국,치앙마이,투어,https://www.myrealtrip.com/offers?t=llp&qct=Chiang%20Mai&qcr=Thailand&ext_categories=tour
 태국,끄라비,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Krabi&qcr=Thailand&ext_categories=activity
 태국,끄라비,투어,https://www.myrealtrip.com/offers?t=llp&qct=Krabi&qcr=Thailand&ext_categories=tour
 태국,끄라비,클래스,https://www.myrealtrip.com/offers?t=llp&qct=Krabi&qcr=Thailand&ext_categories=class
@@ -715,9 +702,6 @@ Country,City,Tour Category,Link
 필리핀,푸에르토프린세사,투어,https://www.myrealtrip.com/offers?t=llp&qct=Puerto%20Princesa&qcr=Philippines&ext_categories=tour
 필리핀,푸에르토프린세사,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Puerto%20Princesa&qcr=Philippines&ext_categories=activity
 필리핀,"클락,앙헬레스",액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Anelescity&qcr=Philippines&ext_categories=activity
-일본,오사카,근교투어,https://www.myrealtrip.com/offers?t=llp&qct=Osaka&qcr=Japan&ext_categories=suburb_tour
-일본,오사카,시내투어,https://www.myrealtrip.com/offers?t=llp&qct=Osaka&qcr=Japan&ext_categories=sinae_tour
-일본,오사카,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Osaka&qcr=Japan&ext_categories=activity
 일본,도쿄,투어,https://www.myrealtrip.com/offers?t=llp&qct=Tokyo&qcr=Japan&ext_categories=tour
 일본,도쿄,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Tokyo&qcr=Japan&ext_categories=activity
 일본,도쿄,클래스,https://www.myrealtrip.com/offers?t=llp&qct=Tokyo&qcr=Japan&ext_categories=class
@@ -829,15 +813,10 @@ Country,City,Tour Category,Link
 중국,항저우,근교투어,https://www.myrealtrip.com/offers?t=llp&qct=Hangzhou&qcr=China&ext_categories=suburb_tour
 중국,항저우,투어,https://www.myrealtrip.com/offers?t=llp&qct=Hangzhou&qcr=China&ext_categories=tour
 중국,중경,투어,https://www.myrealtrip.com/offers?t=llp&qct=Chongqing&qcr=China&ext_categories=tour
-대한민국,제주도,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Jeju&qcr=Korea%2C%20Republic%20of&ext_categories=activity
-대한민국,제주도,클래스,https://www.myrealtrip.com/offers?t=llp&qct=Jeju&qcr=Korea%2C%20Republic%20of&ext_categories=class
 대한민국,경기도,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=gyeonggi-do&qcr=Korea%2C%20Republic%20of&ext_categories=activity
 대한민국,경기도,투어,https://www.myrealtrip.com/offers?t=llp&qct=gyeonggi-do&qcr=Korea%2C%20Republic%20of&ext_categories=tour
 대한민국,경기도,클래스,https://www.myrealtrip.com/offers?t=llp&qct=gyeonggi-do&qcr=Korea%2C%20Republic%20of&ext_categories=class
 대한민국,경기도,체험·클래스,https://www.myrealtrip.com/offers?t=llp&qct=gyeonggi-do&qcr=Korea%2C%20Republic%20of&ext_categories=activity_class
-대한민국,경상도,투어,https://www.myrealtrip.com/offers?t=llp&qct=Gyeongsang-do&qcr=Korea%2C%20Republic%20of&ext_categories=tour
-대한민국,경상도,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Gyeongsang-do&qcr=Korea%2C%20Republic%20of&ext_categories=activity
-대한민국,경상도,체험·클래스,https://www.myrealtrip.com/offers?t=llp&qct=Gyeongsang-do&qcr=Korea%2C%20Republic%20of&ext_categories=activity_class
 대한민국,서울,클래스,https://www.myrealtrip.com/offers?t=llp&qct=Seoul&qcr=Korea%2C%20Republic%20of&ext_categories=class
 대한민국,서울,투어,https://www.myrealtrip.com/offers?t=llp&qct=Seoul&qcr=Korea%2C%20Republic%20of&ext_categories=tour
 대한민국,서울,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Seoul&qcr=Korea%2C%20Republic%20of&ext_categories=activity
@@ -854,8 +833,6 @@ Country,City,Tour Category,Link
 대한민국,경주,투어,https://www.myrealtrip.com/offers?t=llp&qct=Gyeongju&qcr=Korea%2C%20Republic%20of&ext_categories=tour
 대한민국,경주,클래스,https://www.myrealtrip.com/offers?t=llp&qct=Gyeongju&qcr=Korea%2C%20Republic%20of&ext_categories=class
 대한민국,경주,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Gyeongju&qcr=Korea%2C%20Republic%20of&ext_categories=activity
-대한민국,부산,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Busan&qcr=Korea%2C%20Republic%20of&ext_categories=activity
-대한민국,부산,투어,https://www.myrealtrip.com/offers?t=llp&qct=Busan&qcr=Korea%2C%20Republic%20of&ext_categories=tour
 대한민국,충청도,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Chungcheong-do&qcr=Korea%2C%20Republic%20of&ext_categories=activity
 대한민국,충청도,투어,https://www.myrealtrip.com/offers?t=llp&qct=Chungcheong-do&qcr=Korea%2C%20Republic%20of&ext_categories=tour
 대한민국,충청도,클래스,https://www.myrealtrip.com/offers?t=llp&qct=Chungcheong-do&qcr=Korea%2C%20Republic%20of&ext_categories=class
@@ -981,9 +958,6 @@ Country,City,Tour Category,Link
 대만,화련,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Hualian&qcr=Taiwan%2C%20Province%20of%20China&ext_categories=activity
 마카오,마카오,투어,https://www.myrealtrip.com/offers?t=llp&qct=Macau&qcr=Macao&ext_categories=tour
 마카오,마카오,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Macau&qcr=Macao&ext_categories=activity
-싱가포르,싱가포르,투어,https://www.myrealtrip.com/offers?t=llp&qct=Singapore&qcr=Singapore&ext_categories=tour
-싱가포르,싱가포르,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Singapore&qcr=Singapore&ext_categories=activity
-싱가포르,싱가포르,시내투어,https://www.myrealtrip.com/offers?t=llp&qct=Singapore&qcr=Singapore&ext_categories=sinae_tour
 싱가포르,싱가포르 기타 도시,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Singapore%20Others&qcr=Singapore&ext_categories=activity
 싱가포르,싱가포르 기타 도시,투어,https://www.myrealtrip.com/offers?t=llp&qct=Singapore%20Others&qcr=Singapore&ext_categories=tour
 홍콩,홍콩,투어,https://www.myrealtrip.com/offers?t=llp&qct=Hong%20Kong&qcr=Hong%20Kong&ext_categories=tour
@@ -1019,8 +993,6 @@ Country,City,Tour Category,Link
 인도,뉴델리,투어,https://www.myrealtrip.com/offers?t=llp&qct=New%20Delhi&qcr=India&ext_categories=tour
 인도,암리차르,투어,https://www.myrealtrip.com/offers?t=llp&qct=Amritsar&qcr=India&ext_categories=tour
 인도,리시케시,투어,https://www.myrealtrip.com/offers?t=llp&qct=Rishikesh&qcr=India&ext_categories=tour
-미국,하와이,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Hawaii&qcr=United%20States%20of%20America&ext_categories=activity
-미국,하와이,투어,https://www.myrealtrip.com/offers?t=llp&qct=Hawaii&qcr=United%20States%20of%20America&ext_categories=tour
 미국,뉴욕,투어,https://www.myrealtrip.com/offers?t=llp&qct=New%20York%20City&qcr=United%20States%20of%20America&ext_categories=tour
 미국,뉴욕,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=New%20York%20City&qcr=United%20States%20of%20America&ext_categories=activity
 미국,뉴욕,클래스,https://www.myrealtrip.com/offers?t=llp&qct=New%20York%20City&qcr=United%20States%20of%20America&ext_categories=class
@@ -1128,8 +1100,6 @@ Country,City,Tour Category,Link
 과테말라,과테말라,투어,https://www.myrealtrip.com/offers?t=llp&qct=Guatemala%20City&qcr=Guatemala&ext_categories=tour
 도미니카 공화국,푼타 카나,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Punta%20Cana&qcr=Dominican%20Republic&ext_categories=activity
 도미니카 공화국,푼타 카나,투어,https://www.myrealtrip.com/offers?t=llp&qct=Punta%20Cana&qcr=Dominican%20Republic&ext_categories=tour
-멕시코,칸쿤,투어,https://www.myrealtrip.com/offers?t=llp&qct=Cancun&qcr=Mexico&ext_categories=tour
-멕시코,칸쿤,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Cancun&qcr=Mexico&ext_categories=activity
 멕시코,코즈멜 섬,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Cozumel&qcr=Mexico&ext_categories=activity
 멕시코,코즈멜 섬,투어,https://www.myrealtrip.com/offers?t=llp&qct=Cozumel&qcr=Mexico&ext_categories=tour
 멕시코,플라야 델 카르멘,투어,https://www.myrealtrip.com/offers?t=llp&qct=Playa%20del%20Carmen&qcr=Mexico&ext_categories=tour
@@ -1240,3 +1210,55 @@ Country,City,Tour Category,Link
 이집트,룩소르,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Luxor&qcr=Egypt&ext_categories=activity
 이집트,아스완,근교투어,https://www.myrealtrip.com/offers?t=llp&qct=Aswan&qcr=Egypt&ext_categories=suburb_tour
 이집트,아스완,투어,https://www.myrealtrip.com/offers?t=llp&qct=Aswan&qcr=Egypt&ext_categories=tour
+대한민국,경상도,투어,https://www.myrealtrip.com/offers?t=llp&qct=Gyeongsang-do&qcr=Korea%2C%20Republic%20of&ext_categories=tour
+대한민국,경상도,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Gyeongsang-do&qcr=Korea%2C%20Republic%20of&ext_categories=activity
+대한민국,경상도,클래스,https://www.myrealtrip.com/offers?t=llp&qct=Gyeongsang-do&qcr=Korea%2C%20Republic%20of&ext_categories=class
+대한민국,경상도,체험·클래스,https://www.myrealtrip.com/offers?t=llp&qct=Gyeongsang-do&qcr=Korea%2C%20Republic%20of&ext_categories=activity_class
+대한민국,부산,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Busan&qcr=Korea%2C%20Republic%20of&ext_categories=activity
+대한민국,부산,투어,https://www.myrealtrip.com/offers?t=llp&qct=Busan&qcr=Korea%2C%20Republic%20of&ext_categories=tour
+대한민국,부산,클래스,https://www.myrealtrip.com/offers?t=llp&qct=Busan&qcr=Korea%2C%20Republic%20of&ext_categories=class
+미국,하와이,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Hawaii&qcr=United%20States%20of%20America&ext_categories=activity
+미국,하와이,투어,https://www.myrealtrip.com/offers?t=llp&qct=Hawaii&qcr=United%20States%20of%20America&ext_categories=tour
+미국,하와이,클래스,https://www.myrealtrip.com/offers?t=llp&qct=Hawaii&qcr=United%20States%20of%20America&ext_categories=class
+싱가포르,싱가포르,투어,https://www.myrealtrip.com/offers?t=llp&qct=Singapore&qcr=Singapore&ext_categories=tour
+싱가포르,싱가포르,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Singapore&qcr=Singapore&ext_categories=activity
+싱가포르,싱가포르,클래스,https://www.myrealtrip.com/offers?t=llp&qct=Singapore&qcr=Singapore&ext_categories=class
+싱가포르,싱가포르,시내투어,https://www.myrealtrip.com/offers?t=llp&qct=Singapore&qcr=Singapore&ext_categories=sinae_tour
+태국,치앙마이,투어,https://www.myrealtrip.com/offers?t=llp&qct=Chiang%20Mai&qcr=Thailand&ext_categories=tour
+태국,치앙마이,클래스,https://www.myrealtrip.com/offers?t=llp&qct=Chiang%20Mai&qcr=Thailand&ext_categories=class
+태국,치앙마이,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Chiang%20Mai&qcr=Thailand&ext_categories=activity
+대한민국,제주도,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Jeju&qcr=Korea%2C%20Republic%20of&ext_categories=activity
+대한민국,제주도,클래스,https://www.myrealtrip.com/offers?t=llp&qct=Jeju&qcr=Korea%2C%20Republic%20of&ext_categories=class
+대한민국,제주도,투어,https://www.myrealtrip.com/offers?t=llp&qct=Jeju&qcr=Korea%2C%20Republic%20of&ext_categories=tour
+멕시코,칸쿤,투어,https://www.myrealtrip.com/offers?t=llp&qct=Cancun&qcr=Mexico&ext_categories=tour
+멕시코,칸쿤,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Cancun&qcr=Mexico&ext_categories=activity
+멕시코,칸쿤,클래스,https://www.myrealtrip.com/offers?t=llp&qct=Cancun&qcr=Mexico&ext_categories=class
+영국,런던,시내투어,https://www.myrealtrip.com/offers?t=llp&qct=London&qcr=United%20Kingdom&ext_categories=sinae_tour
+영국,런던,근교투어,https://www.myrealtrip.com/offers?t=llp&qct=London&qcr=United%20Kingdom&ext_categories=suburb_tour
+영국,런던,미술관·박물관투어,https://www.myrealtrip.com/offers?t=llp&qct=London&qcr=United%20Kingdom&ext_categories=artmuseum_tour
+영국,런던,체험·클래스,https://www.myrealtrip.com/offers?t=llp&qct=London&qcr=United%20Kingdom&ext_categories=activity_class
+일본,오사카,근교투어,https://www.myrealtrip.com/offers?t=llp&qct=Osaka&qcr=Japan&ext_categories=suburb_tour
+일본,오사카,시내투어,https://www.myrealtrip.com/offers?t=llp&qct=Osaka&qcr=Japan&ext_categories=sinae_tour
+일본,오사카,체험·클래스,https://www.myrealtrip.com/offers?t=llp&qct=Osaka&qcr=Japan&ext_categories=activity_class
+일본,오사카,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Osaka&qcr=Japan&ext_categories=activity
+일본,오사카,투어,https://www.myrealtrip.com/offers?t=llp&qct=Osaka&qcr=Japan&ext_categories=tour
+태국,방콕,시내투어,https://www.myrealtrip.com/offers?t=llp&qct=Bangkok&qcr=Thailand&ext_categories=sinae_tour
+태국,방콕,근교투어,https://www.myrealtrip.com/offers?t=llp&qct=Bangkok&qcr=Thailand&ext_categories=suburb_tour
+태국,방콕,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Bangkok&qcr=Thailand&ext_categories=activity
+태국,방콕,클래스,https://www.myrealtrip.com/offers?t=llp&qct=Bangkok&qcr=Thailand&ext_categories=class
+태국,방콕,투어,https://www.myrealtrip.com/offers?t=llp&qct=Bangkok&qcr=Thailand&ext_categories=tour
+베트남,다낭,투어,https://www.myrealtrip.com/offers?t=llp&qct=Da%20Nang&qcr=Viet%20Nam&ext_categories=tour
+베트남,다낭,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Da%20Nang&qcr=Viet%20Nam&ext_categories=activity
+베트남,다낭,클래스,https://www.myrealtrip.com/offers?t=llp&qct=Da%20Nang&qcr=Viet%20Nam&ext_categories=class
+인도네시아,발리,투어,https://www.myrealtrip.com/offers?t=llp&qct=Bali&qcr=Indonesia&ext_categories=tour
+인도네시아,발리,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Bali&qcr=Indonesia&ext_categories=activity
+인도네시아,발리,클래스,https://www.myrealtrip.com/offers?t=llp&qct=Bali&qcr=Indonesia&ext_categories=class
+태국,푸켓,투어,https://www.myrealtrip.com/offers?t=llp&qct=Phuket&qcr=Thailand&ext_categories=tour
+태국,푸켓,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Phuket&qcr=Thailand&ext_categories=activity
+태국,푸켓,클래스,https://www.myrealtrip.com/offers?t=llp&qct=Phuket&qcr=Thailand&ext_categories=class
+포르투갈,리스본,근교투어,https://www.myrealtrip.com/offers?t=llp&qct=lisbon&qcr=Portugal&ext_categories=suburb_tour
+포르투갈,리스본,시내투어,https://www.myrealtrip.com/offers?t=llp&qct=lisbon&qcr=Portugal&ext_categories=sinae_tour
+포르투갈,리스본,체험·클래스,https://www.myrealtrip.com/offers?t=llp&qct=lisbon&qcr=Portugal&ext_categories=activity_class
+멕시코,칸쿤,투어,https://www.myrealtrip.com/offers?t=llp&qct=Cancun&qcr=Mexico&ext_categories=tour
+멕시코,칸쿤,액티비티,https://www.myrealtrip.com/offers?t=llp&qct=Cancun&qcr=Mexico&ext_categories=activity
+멕시코,칸쿤,클래스,https://www.myrealtrip.com/offers?t=llp&qct=Cancun&qcr=Mexico&ext_categories=class
